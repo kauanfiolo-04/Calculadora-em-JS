@@ -1,0 +1,13 @@
+body{
+    background-color: #D4E6F1  ;
+    text-align: center;
+}
+.Button{
+    color: #FFFFFF; 
+    background-color: #5D6D7E;
+    border-right: small inline;
+    border-left: smal inline;
+    border-top: small inline;
+    border-bottom: small inline;
+    border-color: floralwhite;
+}
